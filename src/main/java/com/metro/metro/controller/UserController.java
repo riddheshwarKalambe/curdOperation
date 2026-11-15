@@ -17,7 +17,7 @@ import java.util.List;
 @RequestMapping("/user")
 public class UserController {
 	
-	// dev branch update today
+	// dev branch update today but new dev-branch is created
     Logger logger = LoggerFactory.getLogger(UserController.class);
 
     @Autowired
